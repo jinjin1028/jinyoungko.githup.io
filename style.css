@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+    color: blue;
+}
+
+h1 {
+    /*글꼴 굵기*/
+    font-weight: lighter;
+    color: black;
+}
+
+img {
+    width : 250px;
+}
+
+
+.sns_link {
+    color: green;
+}
+
+.skilllist {
+    color: green;
+}
+
+ul > .skilllist {
+    color: green;
+    font-weight:  bold;
+    font-size:  30px
+}   
+ul 바로 밑에 있는 자식만 수정하라! 
+
+
+ul > .skilllist {
+    color: green;
+    font-weight:  bold;
+    font-size:  30px
+}   
+
+ul밑에 모든것 다 수정하라!
